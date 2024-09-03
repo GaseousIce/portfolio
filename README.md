@@ -36,9 +36,6 @@ This portfolio website is a personal project designed to present my professional
 
 - **Tailwind CSS:** For styling and responsive design.
 - **HTML/CSS/JavaScript:** Core web technologies for building the site.
-- **Linux:** Used for development and deployment environments.
-- **Virtualization Tools:** (e.g., VMware, VirtualBox) For testing and running multiple OS environments.
-- **Machine Learning Libraries:** (optional, if included in any projects)
 
 ## Installation
 

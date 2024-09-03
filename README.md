@@ -62,9 +62,9 @@ Feel free to explore the website to learn more about my work and interests. If y
 
 If you have any questions, suggestions, or collaboration ideas, please feel free to reach out!
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Email:** [ayushbarik@outlook.com](mailto:ayushbarik@outlook.com)
+- **LinkedIn:** [Ayush Kumar Barik](https://www.linkedin.com/in/ayush-kumar-barik-a34761202/)
+- **GitHub:** [GaseousIce](https://github.com/GaseousIce)
 
 ---
 
